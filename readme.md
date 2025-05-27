@@ -1,7 +1,7 @@
-#Hello, my friend
+# Hello, my friend
 
-##This is my second head
+## This is my second head
 
-###Another head
+### Another head
 
 Just plain text
