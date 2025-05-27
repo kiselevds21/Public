@@ -4,5 +4,6 @@
 
 ### Another head
 
-Just plain text/n
-This is another plain text!
+Just plain text  
+  
+  This is another plain text!
